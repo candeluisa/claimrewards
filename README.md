@@ -1,4 +1,4 @@
-# RepChain
+# ClaimRewards
 
 Trustless influencer campaign marketplace for LATAM crypto brands + nano-influencers. Escrow, delivery attestation, and portable reputation — all settled on Monad in one transaction per step.
 
