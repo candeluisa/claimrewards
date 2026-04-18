@@ -1,0 +1,19 @@
+# foundry
+out/
+cache/
+broadcast/
+lib/
+
+# env
+.env
+.env.local
+.env.*.local
+
+# frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+
+# misc
+.DS_Store
+*.log
